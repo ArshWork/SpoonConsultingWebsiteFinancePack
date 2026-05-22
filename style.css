@@ -69,6 +69,7 @@ img { max-width: 100%; display: block; }
 
 .section { padding: 96px 0; }
 .section-light { background: var(--gray-light); }
+.section-white { background: var(--white); }
 .section-dark  { background: var(--navy-dark); }
 
 .section-header {
