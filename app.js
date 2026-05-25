@@ -1,6 +1,6 @@
 /* ═══════════════════════════════════════════════
    SPOON CONSULTING — FINANCE PACK APP.JS
-═══════════════════════════════════════════════ */
+═══════════════════════════════════════════════ -*/
 
 // ── Navbar scroll effect ─────────────────────
 const navbar = document.getElementById('navbar');
